@@ -1,3 +1,4 @@
 # Healthcare-Imaging
 AI tools for healthcare imaging
-Practice - Xiao Zhang
+
+Made by Xiao Zhang, PhD
